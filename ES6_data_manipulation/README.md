@@ -1,0 +1,1 @@
+This repository is dedicated to ES6 data manipulation
